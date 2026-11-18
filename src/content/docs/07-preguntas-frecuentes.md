@@ -14,11 +14,12 @@ La suscripción no pone tope a cuántos proyectos tienes. Cada proyecto nuevo lo
 tu espacio «Mis proyectos» y desde ahí se lo pides.
 
 **¿Qué no incluye?**
-Tu plan de Claude, que se contrata aparte en claude.ai.
+Tu plan de Claude, que se contrata aparte en claude.ai: es lo único que necesitas además de la
+suscripción. Tampoco incluye la bóveda de claves (para guardar y compartir las contraseñas de tu
+proyecto): es opcional y se paga aparte.
 
 **Si invito a alguien a mi proyecto, ¿también paga?**
-Sí. Cada persona que entra con su propia cuenta tiene su suscripción; por eso el precio es bajo. Más
-adelante habrá descuentos para familias y equipos.
+Sí. Cada persona que entra con su propia cuenta tiene su suscripción; por eso el precio es bajo.
 
 **¿Cómo cancelo?**
 Cuando quieras y sin dar razones, desde el portal de cliente de Stripe. El enlace llega en el aviso que

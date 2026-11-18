@@ -71,5 +71,6 @@ mándasela a David. Si no aparece «Ejecutar de todas formas», mira [Si algo fa
 
 ## Lo que cuesta
 
-Aparte de tu suscripción a ArmonIA, lo único que pagas es **tu plan de Claude**. VS Code, Git y GitHub
-son gratis. Lo que incluye cada cosa está en las [preguntas frecuentes](07-preguntas-frecuentes.html).
+Aparte de tu suscripción a ArmonIA, lo único que necesitas pagar es **tu plan de Claude**. La bóveda
+de claves es opcional y se paga aparte. VS Code, Git y GitHub son gratis. Lo que incluye cada cosa
+está en las [preguntas frecuentes](07-preguntas-frecuentes.html).
